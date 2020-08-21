@@ -8,7 +8,12 @@
 
 #### 2. 기능 구현
 ##### ● 회원가입
-![1](https://user-images.githubusercontent.com/69396761/90719882-6dc6e080-e2f0-11ea-91b8-96598fe2bd16.gif)<hr/>
-##### ● 로그인 후 글쓰기
-![2](https://user-images.githubusercontent.com/69396761/90768094-2d378900-e329-11ea-8859-fbae6d6c6486.gif)<hr/>
-
+![SignUp](https://user-images.githubusercontent.com/69396761/90852167-c14d3300-e3b1-11ea-85c0-b780f67b8974.gif)<hr/>
+##### ● 로그인 및 정보수정
+![Login](https://user-images.githubusercontent.com/69396761/90852188-cc07c800-e3b1-11ea-9d0e-11577ef91534.gif)<hr/>
+##### ● 게시판 글보기
+![ListView](https://user-images.githubusercontent.com/69396761/90852201-d2963f80-e3b1-11ea-878a-36e94cd14323.gif)<hr/>
+##### ● 게시판 글쓰기
+![Write](https://user-images.githubusercontent.com/69396761/90852206-d88c2080-e3b1-11ea-9be8-4a0da635886d.gif)<hr/>
+##### ● 게시판 글검색
+![Search](https://user-images.githubusercontent.com/69396761/90852213-de820180-e3b1-11ea-9a07-992521bf7e89.gif)<hr/>
